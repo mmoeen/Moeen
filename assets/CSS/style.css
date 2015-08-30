@@ -1,0 +1,109 @@
+@charset "utf-8";
+/* Web App Styles */
+
+/* Main structure */
+
+/* Left Column */
+
+.bg-col-left {
+	background-color: #252525;
+}
+.col-left{
+	padding: 0px;
+}
+
+.intro {
+	padding: 0px;
+	
+	background: url(../images/bg_info.jpg) left top no-repeat;
+	/*background-image: url(../images/bg_info.jpg);
+	background-position: left top;
+	background-repeat: no-repeat;*/
+	background-size:cover;
+}
+
+.intro .user-avatar {
+	width: 120px;
+	height: 50px;
+	margin-bottom: 1px;
+	
+	/*border-radius: 50%;
+	
+	overflow: hidden;*/
+}
+
+.intro .user-avatar img {
+	display: block;
+	width: 100%;
+	
+	/*border-radius: 50%;*/
+}
+
+/* Right Column */
+
+.col-right {
+	background-color: #f3f3f3;
+	
+	min-height:1000px;
+}
+.bg{
+	background-color: #252525
+}
+
+.status-bar {
+	height: 60px;
+	padding: 0px;
+	
+margin: 0px -15px 15px;
+	
+	
+	
+	
+}
+
+.panel{
+	height: 80px;
+	pedding :10px ,10px ;
+	margin-bottom: 15px;
+	
+	
+}
+.panel1{
+	height: 240px;
+	pedding :10px ,10px ;
+	margin-bottom: 15px;
+	
+	
+}
+.panel2{
+	height: 220px;
+	pedding : 10px ,10px ;
+	margin-bottom: 15px;
+	margin: 0px -15px 15px;
+	
+}
+.panel3{
+	height: 200px;
+	pedding : 0px ,10px ;
+	margin-bottom: 15px;
+	
+	
+	
+}
+.panel4{
+	height: 240px;
+	pedding : 10px ,10px ;
+	margin-bottom: 15px;
+}
+.panel5{
+	height: 300px;
+	pedding : 10px ,10px ;
+	margin-bottom: 15px;
+	margin: 0px -15px 15px;
+}
+.panel6{
+	height: 40px;
+	margin: 0px -20px 15px;
+	}
+
+
